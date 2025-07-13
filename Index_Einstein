@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>A. Ettarky — Research & Theory</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+    color: #333;
+  }
+  header {
+    background: #003366;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  main {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  h1, h2 {
+    color: #003366;
+  }
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .section {
+    margin-bottom: 30px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>A. Ettarky</h1>
+  <p>Fundamental Predictions of a New Physical Theory</p>
+</header>
+
+<main>
+
+<section class="section">
+  <h2>About Me</h2>
+  <p>I am an independent researcher with a Master’s degree in High Energy Physics, Astronomy, and Computational Physics from Cadi Ayyad University in Marrakech. My research explores the foundations of quantum mechanics and proposes an alternative theory: the <strong>Twin Antisymmetric Universes Theory (TAUT)</strong>.</p>
+</section>
+
+<section class="section">
+  <h2>Research Background</h2>
+  <ul>
+    <li>Master’s internship at CPPM, Marseille: <em>Improving separation between Z⁰ and W± dijets for Higgs boson measurements at FCC-ee</em>.</li>
+    <li>Bachelor project on Quantum Chromodynamics (QCD).</li>
+    <li>Independent research since 2023, developing TAUT and its experimental predictions.</li>
+  </ul>
+</section>
+
+<section class="section">
+  <h2>Key Publications</h2>
+  <p>Three open-access research articles in the <em>Indian Journal of Science and Research (IJSR)</em>:</p>
+  <ul>
+    <li><a href="https://dx.doi.org/10.21275/MR23321233038" target="_blank">First Article (March 2023)</a></li>
+    <li><a href="https://dx.doi.org/10.21275/MR23424190851" target="_blank">Second Article</a></li>
+    <li><a href="https://dx.doi.org/10.21275/SR23923075203" target="_blank">Third Article</a></li>
+  </ul>
+</section>
+
+<section class="section">
+  <h2>Fundamental Predictions</h2>
+  <p>The Twin Antisymmetric Universes Theory (TAUT) offers a deterministic, unified framework for quantum physics and evolutionary biology. Its key predictions include:</p>
+  <ul>
+    <li><strong>Disappearance–Appearance Phenomenon (DAP):</strong> a continuous process replacing the quantum jump in atomic transitions.</li>
+    <li><strong>Charged Atomic Entanglement (CAE):</strong> entanglement between electron–proton pairs in atoms, with biological analogs in humans.</li>
+    <li>Microscopic & macroscopic dualities, bridging matter–antimatter, space–time, and male–female principles.</li>
+    <li>Experimental proposals: atomic scattering experiments and DNA comparison tests between individuals.</li>
+  </ul>
+</section>
+
+<section class="section">
+  <h2>Philosophical & Scientific Questions</h2>
+  <p>TAUT addresses many profound questions, such as:</p>
+  <ul>
+    <li>Why does the universe exhibit matter–antimatter asymmetry?</li>
+    <li>What is the meaning of death in physical terms?</li>
+    <li>How can deterministic laws describe the evolution of humans and particles alike?</li>
+    <li>Is it possible to build an Einstein–Rosen bridge between universes?</li>
+  </ul>
+</section>
+
+<section class="section">
+  <h2>Contact</h2>
+  <p>You can reach me for further discussion or collaboration at: <strong>A. Ettarky</strong></p>
+  <p>Email: [Your Email Here]</p>
+</section>
+
+</main>
+
+<footer style="text-align:center; padding:10px; background:#eee;">
+  &copy; 2025 A. Ettarky — All Rights Reserved.
+</footer>
+
+</body>
+</html>
+
+
